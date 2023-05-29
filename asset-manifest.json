@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/seecatalog/static/css/main.8b119d46.css",
+    "main.js": "/seecatalog/static/js/main.75172bf2.js",
+    "static/js/787.68b90867.chunk.js": "/seecatalog/static/js/787.68b90867.chunk.js",
+    "static/media/Forza-Light.ttf": "/seecatalog/static/media/Forza-Light.5a222beade0ab43c6420.ttf",
+    "static/media/Forza-Medium.ttf": "/seecatalog/static/media/Forza-Medium.1ed526fa62d39848c048.ttf",
+    "static/media/Forza-Black.ttf": "/seecatalog/static/media/Forza-Black.fe92ade0c1b106bae774.ttf",
+    "index.html": "/seecatalog/index.html",
+    "main.8b119d46.css.map": "/seecatalog/static/css/main.8b119d46.css.map",
+    "main.75172bf2.js.map": "/seecatalog/static/js/main.75172bf2.js.map",
+    "787.68b90867.chunk.js.map": "/seecatalog/static/js/787.68b90867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b119d46.css",
+    "static/js/main.75172bf2.js"
+  ]
+}
